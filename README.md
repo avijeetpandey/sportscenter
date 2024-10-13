@@ -15,6 +15,10 @@ The endpoints for product , brand and type creation
 - `GET` /api/products/types - endpoint to fetch all types
 - `GET` /api/products/brands - endpoint to fetch all the brands
 
+The endpoints for authentication 
+- `POST` - /api/auth/login - endpoint for logging in user
+- `GET` - /api/auth/user - endpoint for getting user info from token
+
 ## Tech stack used
 - `Spring Boot`
 - `JPA`
