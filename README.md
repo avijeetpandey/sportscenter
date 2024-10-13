@@ -19,6 +19,9 @@ The endpoints for authentication
 - `POST` - /api/auth/login - endpoint for logging in user
 - `GET` - /api/auth/user - endpoint for getting user info from token
 
+### Swagger API documentation endpoint
+Link `http://localhost:9000/swagger-ui/index.html#/`
+
 ## Tech stack used
 - `Spring Boot`
 - `JPA`
